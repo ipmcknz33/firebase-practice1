@@ -52,5 +52,3 @@ export default function NavBar({ user, loading, login, register, logout }) {
     </nav>
   );
 }
-export default NavBar;
- 
